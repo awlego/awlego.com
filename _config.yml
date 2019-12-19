@@ -30,7 +30,7 @@ twitter_username: awlego
 github_username:  awlego
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
