@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "defau
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Awlego"
+title                    : "Alex Wilson's Website"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "This is the website of Alex Wilson. Here you will find my musings about the world, mostly intended for myself, but some of which others may find interesting."
 name                     : "Alex Wilson"
-description              : "This is the website of Alex Wilson. Here you will find my musings about the world, mostly intended for myself, but some of which others may find interesting."
+# description              : "This is the website of Alex Wilson. Here you will find my musings about the world, mostly intended for myself, but some of which others may find interesting."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Alex Wilson"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  # bio              : "I am an **amazing** person."
   # location         :
   email            :
   links:
