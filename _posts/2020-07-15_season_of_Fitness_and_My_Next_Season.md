@@ -1,4 +1,17 @@
-Season of Fitness and My Next Season
+---
+title: "Season of Fitness and My Next Season"
+date_created: 2020-07-15
+date: 2020-07-15 # date_modified
+# type: posts
+published: true
+categories:
+  - Blog
+tags:
+  - self
+status: finished
+confidence: highly likely
+importance: 5
+---
 
 On Dec 28, 2019 I was 174.8lbs and on July 14th, 2020 I weighed in at 162.2, just 2.2 lbs over my goal weight for the end of 2020. The original soft goal was to hit 160 and then stay between 160 and 165, but the "season of fitness" wasn't just about hitting the weight goal. I started running this year, and to my surprise, I actually stuck with it. Turns out endorphins feel good. I'm pleased that I haven't gone crazy and bitten off more than I can chew. I've given myself slack when I've needed it -- not every day needs to be about fitness. The general trend of the season needs to be about fitness. And towards that end, I have accomplished the physical aspect. I can run 6+ miles without being out of breath (though I'll be tired). I can even run kinda fast sometimes. I've found running with others to be enjoyable and something I foresee myself doing in the future with friends and family.
 
