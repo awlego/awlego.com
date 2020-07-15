@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Romanticism"
+title:  "Against Romanticism"
 date:   2020-01-07 01:55:00 -0800
 categories: romanticism, love, relationships, self-knowledge
 tags: test
@@ -11,32 +11,31 @@ tags: test
 # categories: intro
 ---
 
-Romanticism, especially a romantic view of love, has some serious problems.
-Alain de Bottom has an excellent talk here: https://www.youtube.com/watch?v=v-iUHlVazKk
+*Philospher Alain de Bottom has an excellent talk that was the inspiration for this post here: https://www.youtube.com/watch?v=v-iUHlVazKk*
 
 
-
-First I will define Romanticism for the sake of this 
+## Romantic love has problems.
 Romanticism's idea of love :
 1) All of us have a soul mate
-2) You will know when you meet your soul mate by chance... you'll get that *Special Feeling*
-2) Into the idea of the 'crush'
-3) Happily ever after -- love is a magical thing that solves all of your problems.
-4) No one has to work, so a lot of time can be devoted to love
-5) Nature is incredibly important; long walks, beachs, waterfalls, etc all very romantic.
-6) Consecrated sex as the summit of love. The highest form of love for another person.
-    - has the side effect of turning adultery into a catastrophy.
-7) Pure and good natured human kind at the core (children the main image)
-8) Low or no focus on the practical sides of life. 
-9) Understanding without words - Romantics believe that your lover can intuit your thoughts through the closed bathroom door
+2) You will know when you meet your soul mate by chance... you'll get that *"Special Feeling"*
+3) Into the idea of the 'crush'
+4) Happily ever after -- love is a magical thing that solves all of your problems.
+5) No one has to work, so a lot of time can be devoted to love
+6) Nature is incredibly important; long walks, beachs, waterfalls, etc all very romantic.
+7) Consecrated sex as the summit of love. This is the highest form of love for another person.
+8) Pure and good natured human kind at the core (children the main image)
+9) Low or no focus on the practical sides of life. 
+10) Understanding without words - Romantics believe that your lover can intuit your thoughts through the closed bathroom door
+
+Romantism offers some beautiful ideas, but it has some major flaws. 
+
+Humans are not mind readers.
+2) Real life has work and chores.
+
 
 We're all deeply crazy. No one gets through childhood entirely in tact. We're all distored in some way.
 
 That *Special Feeling*:
-
-Romantic
-
-Romanticism: essentia
 
 ## Conspiracy of Self-Knowledge
 It may be suprising to find out that it's difficult to find self-knowledge, but often it is the case. Part of the problem is something of a conspiracy where no one in your life is very incentivized to tell you about the things that are wrong with you.
