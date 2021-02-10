@@ -5,7 +5,6 @@ date: 2019-12-24 # date_modified
 # type: posts
 published: true
 categories:
-  - Blog
   - About Me
 tags:
   - personality

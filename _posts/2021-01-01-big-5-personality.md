@@ -5,7 +5,6 @@ date: 2021-01-01 # date_modified
 # type: posts
 published: true
 categories:
-  - Blog
   - About Me
 tags:
   - personality
