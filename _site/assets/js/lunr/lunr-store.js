@@ -2,12 +2,12 @@ var store = [{
         "title": "2019 Big 5 Personality Test",
         "excerpt":"I’m interested in tracking my personality test scores over time.   My scores on the “Big 5 Personality Test” from Truity.com:     Openness: 85%   Conscientiousness: 54%   Extraversion: 46%   Agreeableness: 75%   Neuroticisim: 2%  ","categories": ["About Me"],
         "tags": ["personality","self"],
-        "url": "/about%20me/big-5-personality/",
+        "url": "/about%20me/big-5-personality-2019/",
         "teaser":null},{
         "title": "2020 Big 5 Personality Test",
         "excerpt":"I’m interested in tracking my personality test scores over time. Here are my results after the end of year 2020 and the changes from the same test I did last year: My scores on the “Big 5 Personality Test” from Truity.com: Openness: 87.5% (+2.5%) Conscientiousness: 56% (+2%) Extraversion: 54% (+8%)...","categories": ["About Me"],
         "tags": ["personality","self"],
-        "url": "/about%20me/big-5-personality/",
+        "url": "/about%20me/big-5-personality-2020/",
         "teaser":null},{
         "title": "Lights",
         "excerpt":"Lights June is an endless orgy of light December is a seductive dance of color Life is harsh but beautiful. Beauty is full here. Full. It has to be, because life is harsh. A poem I wrote while traveling above the article circle in Norway with my grandparents. I don’t...","categories": ["Poems"],
