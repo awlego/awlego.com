@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-20T09:44:46-07:00</updated><id>/feed.xml</id><title type="html">Alex Wilson’s Website</title><author><name>Alex Wilson</name></author><entry><title type="html">Lights</title><link href="/poems/poem.lights/" rel="alternate" type="text/html" title="Lights" /><published>2021-03-20T00:00:00-07:00</published><updated>2021-03-20T00:00:00-07:00</updated><id>/poems/poem.lights</id><content type="html" xml:base="/poems/poem.lights/">&lt;figure class=&quot;&quot;&gt;
-  &lt;img src=&quot;/assets/images/norway_lights.jpg&quot; alt=&quot;this is a placeholder image&quot; /&gt;
-  &lt;/figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-20T10:04:32-07:00</updated><id>/feed.xml</id><title type="html">Alex Wilson’s Website</title><author><name>Alex Wilson</name></author><entry><title type="html">Lights</title><link href="/poems/poem.lights/" rel="alternate" type="text/html" title="Lights" /><published>2021-03-20T00:00:00-07:00</published><updated>2021-03-20T00:00:00-07:00</updated><id>/poems/poem.lights</id><content type="html" xml:base="/poems/poem.lights/">{% include figure image_path=&quot;/assets/images/norway_lights.jpg&quot; alt=&quot;this is a placeholder image&quot; %}
 
-&lt;p&gt;Lights&lt;/p&gt;
 
-&lt;p&gt;June is an endless orgy of light&lt;br /&gt;
-December is a seductive dance of color&lt;br /&gt;
-Life is harsh but beautiful. Beauty is full here. Full.&lt;br /&gt;
-It has to be, because life is harsh.&lt;/p&gt;
+Lights
 
-&lt;hr /&gt;
-&lt;p&gt;A poem I wrote while traveling above the article circle in Norway with my grandparents. I don’t actually think life is harsh, but the stark mountains and cold water made it seem appropriate for the poem.&lt;/p&gt;</content><author><name>Alex Wilson</name></author><category term="Poems" /><category term="poem" /><summary type="html"></summary></entry><entry><title type="html">Lights Are Off</title><link href="/poems/poem.lights-are-off/" rel="alternate" type="text/html" title="Lights Are Off" /><published>2021-03-18T00:00:00-07:00</published><updated>2021-03-18T00:00:00-07:00</updated><id>/poems/poem.lights-are-off</id><content type="html" xml:base="/poems/poem.lights-are-off/">Lights Are Off
+June is an endless orgy of light  
+December is a seductive dance of color  
+Life is harsh but beautiful. Beauty is full here. Full.  
+It has to be, because life is harsh.  
+
+---
+A poem I wrote while traveling above the article circle in Norway with my grandparents. I don't actually think life is harsh, but the stark mountains and cold water made it seem appropriate for the poem.</content><author><name>Alex Wilson</name></author><category term="Poems" /><category term="poem" /><summary type="html"></summary></entry><entry><title type="html">Lights Are Off</title><link href="/poems/poem.lights-are-off/" rel="alternate" type="text/html" title="Lights Are Off" /><published>2021-03-18T00:00:00-07:00</published><updated>2021-03-18T00:00:00-07:00</updated><id>/poems/poem.lights-are-off</id><content type="html" xml:base="/poems/poem.lights-are-off/">Lights Are Off
 
 The lights are off now  
 As I tell you my fears  
