@@ -1,146 +1,142 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-18T22:46:44-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Alex Wilson’s Website</title><author><name>Alex Wilson</name></author><entry><title type="html">Lights Are Off</title><link href="http://localhost:4000/poems/poem.lights-are-off/" rel="alternate" type="text/html" title="Lights Are Off" /><published>2021-03-18T00:00:00-07:00</published><updated>2021-03-18T00:00:00-07:00</updated><id>http://localhost:4000/poems/poem.lights-are-off</id><content type="html" xml:base="http://localhost:4000/poems/poem.lights-are-off/">&lt;p&gt;Lights Are Off&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-03-20T09:38:18-07:00</updated><id>/feed.xml</id><title type="html">Alex Wilson’s Website</title><author><name>Alex Wilson</name></author><entry><title type="html">Lights Are Off</title><link href="/poems/poem.lights-are-off/" rel="alternate" type="text/html" title="Lights Are Off" /><published>2021-03-18T00:00:00-07:00</published><updated>2021-03-18T00:00:00-07:00</updated><id>/poems/poem.lights-are-off</id><content type="html" xml:base="/poems/poem.lights-are-off/">&lt;p&gt;Lights Are Off&lt;/p&gt;
 
-&lt;p&gt;The lights are off now
-As I tell you my fears
-I’m naked and afraid
-And Sharing makes it better.
-You clutch my shoulder
-As your worries seep out
-A warmth in the darkness
-Certainty… for now.
-The lights are off now
-And there is love to make.
-But we both know
+&lt;p&gt;The lights are off now&lt;br /&gt;
+As I tell you my fears&lt;br /&gt;
+I’m naked and afraid&lt;br /&gt;
+And Sharing makes it better.&lt;br /&gt;
+You clutch my shoulder&lt;br /&gt;
+As your worries seep out&lt;br /&gt;
+A warmth in the darkness&lt;br /&gt;
+Certainty… for now.&lt;br /&gt;
+The lights are off now&lt;br /&gt;
+And there is love to make.&lt;br /&gt;
+But we both know&lt;br /&gt;
 That it has already been made.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;I’m not 100% done with this piece, but maybe it will stay unfinished. I really like the line “But we both know
-That it has already been made.”&lt;/p&gt;</content><author><name>Alex Wilson</name></author><category term="poem" /><summary type="html">Lights Are Off</summary></entry><entry><title type="html">Date Me</title><link href="http://localhost:4000/dateme/" rel="alternate" type="text/html" title="Date Me" /><published>2021-03-18T00:00:00-07:00</published><updated>2021-03-18T00:00:00-07:00</updated><id>http://localhost:4000/date-me</id><content type="html" xml:base="http://localhost:4000/dateme/"></content><author><name>Alex Wilson</name></author><summary type="html"></summary></entry><entry><title type="html">Music of the Ear</title><link href="http://localhost:4000/poems/poem.music-of-the-ear/" rel="alternate" type="text/html" title="Music of the Ear" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>http://localhost:4000/poems/poem.music-of-the-ear</id><content type="html" xml:base="http://localhost:4000/poems/poem.music-of-the-ear/">&lt;p&gt;Music of the Ear&lt;/p&gt;
+That it has already been made.”&lt;/p&gt;</content><author><name>Alex Wilson</name></author><category term="Poems" /><category term="poem" /><summary type="html">Lights Are Off</summary></entry><entry><title type="html">Date Me</title><link href="/dateme/" rel="alternate" type="text/html" title="Date Me" /><published>2021-03-18T00:00:00-07:00</published><updated>2021-03-18T00:00:00-07:00</updated><id>/date-me</id><content type="html" xml:base="/dateme/"></content><author><name>Alex Wilson</name></author><summary type="html"></summary></entry><entry><title type="html">Music of the Ear</title><link href="/poems/poem.music-of-the-ear/" rel="alternate" type="text/html" title="Music of the Ear" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>/poems/poem.music-of-the-ear</id><content type="html" xml:base="/poems/poem.music-of-the-ear/">Music of the Ear
 
-&lt;p&gt;a kiss&lt;br /&gt;
-a wish&lt;br /&gt;
-a blink of the eye&lt;br /&gt;
-a beat&lt;br /&gt;
-a bump&lt;br /&gt;
-a piece of the pie&lt;br /&gt;
-a ring&lt;br /&gt;
-a king&lt;br /&gt;
-a crash of the sky&lt;br /&gt;
-a tear&lt;br /&gt;
-a stare&lt;br /&gt;
-a query of the why&lt;/p&gt;
+a kiss  
+a wish  
+a blink of the eye  
+a beat  
+a bump  
+a piece of the pie  
+a ring  
+a king  
+a crash of the sky  
+a tear  
+a stare  
+a query of the why  
 
-&lt;hr /&gt;
+---
 
-&lt;p&gt;I like the rhythm of this.&lt;/p&gt;</content><author><name>Alex Wilson</name></author><category term="poem" /><summary type="html">Music of the Ear</summary></entry><entry><title type="html">Deathbed (rough)</title><link href="http://localhost:4000/poems/poem.deathbed/" rel="alternate" type="text/html" title="Deathbed (rough)" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>http://localhost:4000/poems/poem.deathbed</id><content type="html" xml:base="http://localhost:4000/poems/poem.deathbed/">&lt;p&gt;Deathbed (rough)&lt;/p&gt;
+I like the rhythm of this.</content><author><name>Alex Wilson</name></author><category term="Poems" /><category term="poem" /><summary type="html">Music of the Ear</summary></entry><entry><title type="html">Deathbed (rough)</title><link href="/poems/poem.deathbed/" rel="alternate" type="text/html" title="Deathbed (rough)" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>/poems/poem.deathbed</id><content type="html" xml:base="/poems/poem.deathbed/">Deathbed (rough)
 
-&lt;p&gt;Late nights waiting&lt;br /&gt;
-By the hospital&lt;br /&gt;
-bed cold and bright&lt;br /&gt;
-Warm drip drip &lt;br /&gt;
-Of the morphine&lt;br /&gt;
-Putting up a fight&lt;br /&gt;
-Wandering halls alone&lt;br /&gt;
-with old friends&lt;br /&gt;
-Here in the light&lt;br /&gt;
-Stories shared and known&lt;br /&gt;
-We cried, raged, and cried&lt;br /&gt;
-B-ball games so tight&lt;/p&gt;
+Late nights waiting  
+By the hospital  
+bed cold and bright  
+Warm drip drip   
+Of the morphine  
+Putting up a fight  
+Wandering halls alone  
+with old friends  
+Here in the light  
+Stories shared and known  
+We cried, raged, and cried  
+B-ball games so tight  
 
-&lt;hr /&gt;
+---
 
-&lt;p&gt;I’m pretty sure I wrote this after reading a chapter of Being Mortal by Atul Gawande. I’m not sure where that last line came from. It doesn’t seem to fit, but I doubt I’ll change it anytime soon and I like the rest of it.&lt;/p&gt;</content><author><name>Alex Wilson</name></author><category term="poem" /><summary type="html">Deathbed (rough)</summary></entry><entry><title type="html">36</title><link href="http://localhost:4000/poems/poem.36/" rel="alternate" type="text/html" title="36" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>http://localhost:4000/poems/poem.36</id><content type="html" xml:base="http://localhost:4000/poems/poem.36/">&lt;p&gt;36&lt;/p&gt;
+I'm pretty sure I wrote this after reading a chapter of Being Mortal by Atul Gawande. I'm not sure where that last line came from. It doesn't seem to fit, but I doubt I'll change it anytime soon and I like the rest of it.</content><author><name>Alex Wilson</name></author><category term="Poems" /><category term="poem" /><summary type="html">Deathbed (rough)</summary></entry><entry><title type="html">36</title><link href="/poems/poem.36/" rel="alternate" type="text/html" title="36" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>/poems/poem.36</id><content type="html" xml:base="/poems/poem.36/">36
 
-&lt;p&gt;Breaks of silence hold the room&lt;br /&gt;
-Muffling the cranking inside their heads&lt;br /&gt;
-Until courage rises and breath&lt;br /&gt;
-Solidifies history, hopes, and Being&lt;br /&gt;
-Old oak shelters from the&lt;br /&gt;
-Glory of brilliant lights above&lt;br /&gt;
-But holds tight the warmth they share&lt;br /&gt;
-From questions answered, and bodies laid bare.&lt;/p&gt;
+Breaks of silence hold the room  
+Muffling the cranking inside their heads  
+Until courage rises and breath  
+Solidifies history, hopes, and Being  
+Old oak shelters from the  
+Glory of brilliant lights above  
+But holds tight the warmth they share  
+From questions answered, and bodies laid bare.  
 
-&lt;hr /&gt;
+---
 
-&lt;p&gt;A poem I wrote back in 2018. I don’t remember why it’s titled 36. It was in a collection of birthday poems and the person I wrote it for was not turning 36.&lt;/p&gt;</content><author><name>Alex Wilson</name></author><category term="poem" /><summary type="html">36</summary></entry><entry><title type="html">Believers</title><link href="http://localhost:4000/poems/poem.believers/" rel="alternate" type="text/html" title="Believers" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>http://localhost:4000/poems/poem.believers</id><content type="html" xml:base="http://localhost:4000/poems/poem.believers/">&lt;p&gt;Believers&lt;/p&gt;
+A poem I wrote back in 2018. I don't remember why it's titled 36. It was in a collection of birthday poems and the person I wrote it for was not turning 36.</content><author><name>Alex Wilson</name></author><category term="Poems" /><category term="poem" /><summary type="html">36</summary></entry><entry><title type="html">Believers</title><link href="/poems/poem.believers/" rel="alternate" type="text/html" title="Believers" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>/poems/poem.believers</id><content type="html" xml:base="/poems/poem.believers/">Believers  
+  
+Dark heels clicked   
+striking the   
+cobblestone;  
+confidence.  
+  
+A shared spell  
+Spun with warmth;  
+finger tips   
+in night air  
+  
+He shouldered   
+dark threads spun   
+crisp and clean,  
+accents, bold.  
+  
+She draped white  
+soft with gold  
+flowing like  
+rivers old  
+  
+He was iron  
+a soft strength,  
+pliable   
+with furnace.  
+  
+She was heat   
+from nothing,  
+like a flame  
+glorious.  
+  
+Tender sways  
+hide still their  
+frail knowledge  
+shared in myth.  
+  
+Known only  
+as bare truth.  
+Believers  
+‘neath night sky.  
 
-&lt;p&gt;Dark heels clicked &lt;br /&gt;
-striking the &lt;br /&gt;
-cobblestone;&lt;br /&gt;
-confidence.&lt;/p&gt;
+---
 
-&lt;p&gt;A shared spell&lt;br /&gt;
-Spun with warmth;&lt;br /&gt;
-finger tips &lt;br /&gt;
-in night air&lt;/p&gt;
+My imagination brought me a man and a woman dancing by themselves in a square late at night and it was beautiful, so I tried to write it down.</content><author><name>Alex Wilson</name></author><category term="Poems" /><category term="poem" /><summary type="html">Believers Dark heels clicked striking the cobblestone; confidence. A shared spell Spun with warmth; finger tips in night air He shouldered dark threads spun crisp and clean, accents, bold. She draped white soft with gold flowing like rivers old He was iron a soft strength, pliable with furnace. She was heat from nothing, like a flame glorious. Tender sways hide still their frail knowledge shared in myth. Known only as bare truth. Believers ‘neath night sky.</summary></entry><entry><title type="html">Cunning Linguist</title><link href="/poems/poem.cunning-linguist/" rel="alternate" type="text/html" title="Cunning Linguist" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>/poems/poem.cunning-linguist</id><content type="html" xml:base="/poems/poem.cunning-linguist/">Cunning Linguist
 
-&lt;p&gt;He shouldered &lt;br /&gt;
-dark threads spun &lt;br /&gt;
-crisp and clean,&lt;br /&gt;
-accents, bold.&lt;/p&gt;
+An aspiring cunning linguist  
+The man practiced cunnilingus  
+His poems penned with swirling tongue  
+Until his song her lips had sung  
 
-&lt;p&gt;She draped white&lt;br /&gt;
-soft with gold&lt;br /&gt;
-flowing like&lt;br /&gt;
-rivers old&lt;/p&gt;
+---
 
-&lt;p&gt;He was iron&lt;br /&gt;
-a soft strength,&lt;br /&gt;
-pliable &lt;br /&gt;
-with furnace.&lt;/p&gt;
+It's silly and maybe crass, but I'm still amused.  
+The first two lines came to me while on the last leg of a run. I was climbing my the hill to my house and was very out of breath trying to voice potential lines when I  passed my neighbor taking in the trash. That was awkward.</content><author><name>Alex Wilson</name></author><category term="Poems" /><category term="poem" /><summary type="html">Cunning Linguist</summary></entry><entry><title type="html">Lights</title><link href="/poems/poem.lights/" rel="alternate" type="text/html" title="Lights" /><published>2021-02-09T00:00:00-08:00</published><updated>2021-02-09T00:00:00-08:00</updated><id>/poems/poem.lights</id><content type="html" xml:base="/poems/poem.lights/">Lights
 
-&lt;p&gt;She was heat &lt;br /&gt;
-from nothing,&lt;br /&gt;
-like a flame&lt;br /&gt;
-glorious.&lt;/p&gt;
+June is an endless orgy of light  
+December is a seductive dance of color  
+Life is harsh but beautiful. Beauty is full here. Full.  
+It has to be, because life is harsh.  
 
-&lt;p&gt;Tender sways&lt;br /&gt;
-hide still their&lt;br /&gt;
-frail knowledge&lt;br /&gt;
-shared in myth.&lt;/p&gt;
+---
+A poem I wrote while traveling above the article circle in Norway with my grandparents. I don't actually think life is harsh, but the stark mountains and cold water made it seem appropriate for the poem.</content><author><name>Alex Wilson</name></author><category term="Poems" /><category term="poem" /><summary type="html">Lights</summary></entry><entry><title type="html">2020 Big 5 Personality Test</title><link href="/about%20me/big-5-personality-2020/" rel="alternate" type="text/html" title="2020 Big 5 Personality Test" /><published>2021-01-01T00:00:00-08:00</published><updated>2021-01-01T00:00:00-08:00</updated><id>/about%20me/big-5-personality-2020</id><content type="html" xml:base="/about%20me/big-5-personality-2020/">I'm interested in tracking my personality test scores over time. Here are my results after the end of year 2020 and the changes from the same test I did last year:
 
-&lt;p&gt;Known only&lt;br /&gt;
-as bare truth.&lt;br /&gt;
-Believers&lt;br /&gt;
-‘neath night sky.&lt;/p&gt;
+My scores on the &quot;Big 5 Personality Test&quot; from [Truity.com](https://www.truity.com/personality-test/17315/test-results/12497855):
+1. Openness: 87.5% (+2.5%)
+2. Conscientiousness: 56% (+2%)
+3. Extraversion: 54% (+8%)
+4. Agreeableness: 73% (-2%)
+5. Neuroticisim: 0% (-2%)</content><author><name>Alex Wilson</name></author><category term="About Me" /><category term="personality" /><category term="self" /><summary type="html">I’m interested in tracking my personality test scores over time. Here are my results after the end of year 2020 and the changes from the same test I did last year:</summary></entry><entry><title type="html">2019 Big 5 Personality Test</title><link href="/about%20me/big-5-personality-2019/" rel="alternate" type="text/html" title="2019 Big 5 Personality Test" /><published>2019-12-24T00:00:00-08:00</published><updated>2019-12-24T00:00:00-08:00</updated><id>/about%20me/big-5-personality-2019</id><content type="html" xml:base="/about%20me/big-5-personality-2019/">I'm interested in tracking my personality test scores over time.
 
-&lt;hr /&gt;
-
-&lt;p&gt;My imagination brought me a man and a woman dancing by themselves in a square late at night and it was beautiful, so I tried to write it down.&lt;/p&gt;</content><author><name>Alex Wilson</name></author><category term="poem" /><summary type="html">Believers Dark heels clicked striking the cobblestone; confidence. A shared spell Spun with warmth; finger tips in night air He shouldered dark threads spun crisp and clean, accents, bold. She draped white soft with gold flowing like rivers old He was iron a soft strength, pliable with furnace. She was heat from nothing, like a flame glorious. Tender sways hide still their frail knowledge shared in myth. Known only as bare truth. Believers ‘neath night sky.</summary></entry><entry><title type="html">Cunning Linguist</title><link href="http://localhost:4000/poems/poem.cunning-linguist/" rel="alternate" type="text/html" title="Cunning Linguist" /><published>2021-02-10T00:00:00-08:00</published><updated>2021-02-10T00:00:00-08:00</updated><id>http://localhost:4000/poems/poem.cunning-linguist</id><content type="html" xml:base="http://localhost:4000/poems/poem.cunning-linguist/">&lt;p&gt;Cunning Linguist&lt;/p&gt;
-
-&lt;p&gt;An aspiring cunning linguist&lt;br /&gt;
-The man practiced cunnilingus&lt;br /&gt;
-His poems penned with swirling tongue&lt;br /&gt;
-Until his song her lips had sung&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;It’s silly and maybe crass, but I’m still amused.&lt;br /&gt;
-The first two lines came to me while on the last leg of a run. I was climbing my the hill to my house and was very out of breath trying to voice potential lines when I  passed my neighbor taking in the trash. That was awkward.&lt;/p&gt;</content><author><name>Alex Wilson</name></author><category term="poem" /><summary type="html">Cunning Linguist</summary></entry><entry><title type="html">Lights</title><link href="http://localhost:4000/poems/poem.lights/" rel="alternate" type="text/html" title="Lights" /><published>2021-02-09T00:00:00-08:00</published><updated>2021-02-09T00:00:00-08:00</updated><id>http://localhost:4000/poems/poem.lights</id><content type="html" xml:base="http://localhost:4000/poems/poem.lights/">&lt;p&gt;Lights&lt;/p&gt;
-
-&lt;p&gt;June is an endless orgy of light&lt;br /&gt;
-December is a seductive dance of color&lt;br /&gt;
-Life is harsh but beautiful. Beauty is full here. Full.&lt;br /&gt;
-It has to be, because life is harsh.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;A poem I wrote while traveling above the article circle in Norway with my grandparents. I don’t actually think life is harsh, but the stark mountains and cold water made it seem appropriate for the poem.&lt;/p&gt;</content><author><name>Alex Wilson</name></author><category term="poem" /><summary type="html">Lights</summary></entry><entry><title type="html">2020 Big 5 Personality Test</title><link href="http://localhost:4000/about%20me/big-5-personality-2020/" rel="alternate" type="text/html" title="2020 Big 5 Personality Test" /><published>2021-01-01T00:00:00-08:00</published><updated>2021-01-01T00:00:00-08:00</updated><id>http://localhost:4000/about%20me/big-5-personality-2020</id><content type="html" xml:base="http://localhost:4000/about%20me/big-5-personality-2020/">&lt;p&gt;I’m interested in tracking my personality test scores over time. Here are my results after the end of year 2020 and the changes from the same test I did last year:&lt;/p&gt;
-
-&lt;p&gt;My scores on the “Big 5 Personality Test” from &lt;a href=&quot;https://www.truity.com/personality-test/17315/test-results/12497855&quot;&gt;Truity.com&lt;/a&gt;:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Openness: 87.5% (+2.5%)&lt;/li&gt;
-  &lt;li&gt;Conscientiousness: 56% (+2%)&lt;/li&gt;
-  &lt;li&gt;Extraversion: 54% (+8%)&lt;/li&gt;
-  &lt;li&gt;Agreeableness: 73% (-2%)&lt;/li&gt;
-  &lt;li&gt;Neuroticisim: 0% (-2%)&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Alex Wilson</name></author><category term="personality" /><category term="self" /><summary type="html">I’m interested in tracking my personality test scores over time. Here are my results after the end of year 2020 and the changes from the same test I did last year:</summary></entry><entry><title type="html">2019 Big 5 Personality Test</title><link href="http://localhost:4000/about%20me/big-5-personality-2019/" rel="alternate" type="text/html" title="2019 Big 5 Personality Test" /><published>2019-12-24T00:00:00-08:00</published><updated>2019-12-24T00:00:00-08:00</updated><id>http://localhost:4000/about%20me/big-5-personality-2019</id><content type="html" xml:base="http://localhost:4000/about%20me/big-5-personality-2019/">&lt;p&gt;I’m interested in tracking my personality test scores over time.&lt;/p&gt;
-
-&lt;p&gt;My scores on the “Big 5 Personality Test” from &lt;a href=&quot;https://www.truity.com/personality-test/17315/test-results/12497855&quot;&gt;Truity.com&lt;/a&gt;:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Openness: 85%&lt;/li&gt;
-  &lt;li&gt;Conscientiousness: 54%&lt;/li&gt;
-  &lt;li&gt;Extraversion: 46%&lt;/li&gt;
-  &lt;li&gt;Agreeableness: 75%&lt;/li&gt;
-  &lt;li&gt;Neuroticisim: 2%&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Alex Wilson</name></author><category term="personality" /><category term="self" /><summary type="html">I’m interested in tracking my personality test scores over time.</summary></entry></feed>
+My scores on the &quot;Big 5 Personality Test&quot; from [Truity.com](https://www.truity.com/personality-test/17315/test-results/12497855):
+1. Openness: 85%
+2. Conscientiousness: 54%
+3. Extraversion: 46%
+4. Agreeableness: 75%
+5. Neuroticisim: 2%</content><author><name>Alex Wilson</name></author><category term="About Me" /><category term="personality" /><category term="self" /><summary type="html">I’m interested in tracking my personality test scores over time.</summary></entry></feed>
