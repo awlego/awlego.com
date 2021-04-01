@@ -15,6 +15,7 @@ confidence: likely
 importance: 7
 # header:
 #   image: /assets/images/rose.jpg
+excerpt: "Recently I've been thinking about the concept of \"the idea of you\" and its potential failure points."
 ---
 
 _Confidence:_ likely (note: still working on how to present various relevant metadata here like epistemic certainty or personal importance.)

@@ -18,12 +18,13 @@ importance: 6
 header:
   # image: /assets/images/pasta.jpg
   og_image: /assets/images/pasta.jpg
+excerpt: "I have a personal rule I set for myself: I cannot claim that I don't like a food if I haven't tried it in the past two years."
 ---
-
-_These are my musings. As with all of my writing, please attempt to read charitably._
 
 _Confidence: likely_  
 _Importance: 6_
+
+_These are my musings. As with all of my writing, please attempt to read charitably._
 
 ---
 

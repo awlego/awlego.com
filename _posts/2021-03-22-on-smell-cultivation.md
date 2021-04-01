@@ -16,6 +16,7 @@ confidence: highly likely
 importance: 4
 # header:
 #   image: /assets/images/rose.jpg
+excerpt: "A few years back I started paying attention to smells more."
 ---
 
 {% include figure image_path="/assets/images/rose.jpg" %}
