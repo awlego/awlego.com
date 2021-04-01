@@ -15,14 +15,15 @@ tags:
 status: finished
 confidence: likely
 importance: 6
-# header:
-#   image: /assets/images/rose.jpg
+header:
+  # image: /assets/images/pasta.jpg
+  og_image: /assets/images/pasta.jpg
 ---
 
-_Confidence:_ likely  
-_importance:_ 6  
-
 _These are my musings. As with all of my writing, please attempt to read charitably._
+
+_Confidence: likely_  
+_Importance: 6_
 
 ---
 
