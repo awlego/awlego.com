@@ -10,7 +10,6 @@ categories:
 tags:
   - mental models
   - idea of you
-  - 
 status: finished
 confidence: likely
 importance: 7
