@@ -14,7 +14,7 @@ confidence: highly likely
 importance: 3
 ---
 
-I'm interested in tracking my personality test scores over time. Here are my results after the end of year 2020 and the changes from the same test I did last year:
+I'm interested in tracking my personality test scores over time. Here are my results after the end of year 2021 and the changes from the same test I did last year:
 
 My scores on the "Big 5 Personality Test" from [Truity.com](https://www.truity.com/personality-test/17315/test-results/12497855):
 1. Openness: 83% (-4.5%)
