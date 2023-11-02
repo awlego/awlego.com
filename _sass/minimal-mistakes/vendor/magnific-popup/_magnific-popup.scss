@@ -180,9 +180,9 @@ $mfp-use-visuallyhidden:              false !default; // Hide content from brows
 .mfp-arrow,
 .mfp-preloader,
 .mfp-counter {
-  -webkit-user-select:none;
-  -moz-user-select: none;
-  user-select: none;
+  -webkit-user-select:auto;
+  -moz-user-select: auto;
+  user-select: auto;
 }
 
 // Hide the image during the loading
