@@ -1,0 +1,44 @@
+.half-size {
+    width: 10%; /* Set the width to 50% of the original size */
+    height: auto; /* Set the height to auto to maintain the aspect ratio */
+}
+  
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(30px, 1fr)); /* Adjust the number of columns based on the container size */
+    gap: 2px; /* Reduced spacing between items */
+}
+
+.title {
+    /* ... existing styles ... */
+    padding-right: 2px; /* Adjust as needed */
+}
+
+.grid-item {
+    display: none; /* Hide the actual checkbox */
+}
+
+.grid-label {
+    width: 30px; /* Width of the square */
+    height: 30px; /* Height of the square */
+    background-color: #ddd; /* Light grey background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.grid-item:checked + .grid-label {
+    background-color: #666; /* Darker background for selected */
+    color: white;
+}
+.selection-form {
+    margin-bottom: 20px;
+}
+
+.title {
+    grid-column: 1 / -1; /* Make the title span all columns */
+    text-align: left;
+    font-weight: bold;
+    font-size: 1.5em; /* Larger font size */
+    margin-bottom: 5px; /* Spacing below the title */
+}
