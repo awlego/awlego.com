@@ -42,3 +42,27 @@
     font-size: 1.5em; /* Larger font size */
     margin-bottom: 5px; /* Spacing below the title */
 }
+
+
+/* Add this to your style.css */
+body {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 1200px; /* Set a maximum width for the content */
+    box-sizing: border-box;
+}
+
+.grid {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/* Optional: Add a background color to see the effect of the margins
+body {
+    background-color: #239c2b;
+} */
+
+#imagesContainer {
+    min-height: 500px; /* Adjust this value based on the size of your images */
+}

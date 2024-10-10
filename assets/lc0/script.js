@@ -18,14 +18,25 @@ function fetchAndDisplayImages(factor, block) {
     }
 }
 
-// Add event listeners to all factor and block inputs to handle selection changes
-document.querySelectorAll('input[name="factor"], input[name="block"]').forEach(input => {
+
+// Function to update existing images instead of removing them
+function updateImages(newImagePath) {
+    let imageElement = imagesContainer.querySelector('img');
+
+    if (imageElement) {
+        imageElement.src = newImagePath; // Update image source
+    } else {
+        // If no image exists yet, create one
+        let newImage = document.createElement('img');
+        newImage.src = newImagePath;
+        imagesContainer.appendChild(newImage);
+    }
+}
+
+// Example usage
+document.querySelectorAll('input[name="block"]').forEach((input) => {
     input.addEventListener('change', () => {
-        const factor = document.querySelector('input[name="factor"]:checked').value;
-        const zeroBasedFactor = factor - 1;
-        const block = document.querySelector('input[name="block"]:checked').value;
-        document.getElementById('imagesContainer').innerHTML = ''; // Clear the container
-        fetchAndDisplayImages(zeroBasedFactor, block);
+        updateImages('path_to_new_image.webp');
     });
 });
 
