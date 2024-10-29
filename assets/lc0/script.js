@@ -33,10 +33,11 @@ function updateImages(newImagePath) {
     }
 }
 
-// Example usage
-document.querySelectorAll('input[name="block"]').forEach((input) => {
+document.querySelectorAll('input[name="factor"], input[name="block"]').forEach(input => {
     input.addEventListener('change', () => {
-        updateImages('path_to_new_image.webp');
+        const newFactor = document.querySelector('input[name="factor"]:checked').value;
+        const newBlock = document.querySelector('input[name="block"]:checked').value;
+        fetchAndDisplayImages(newFactor - 1, newBlock);
     });
 });
 
