@@ -3,15 +3,19 @@
     height: auto; /* Set the height to auto to maintain the aspect ratio */
 }
   
-.grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(30px, 1fr)); /* Adjust the number of columns based on the container size */
-    gap: 2px; /* Reduced spacing between items */
-}
-
 .title {
     /* ... existing styles ... */
-    padding-right: 2px; /* Adjust as needed */
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 2rem 0 1rem;
+    color: #333;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
+    gap: 0.5rem;
+    margin: 1rem 0;
 }
 
 .grid-item {
@@ -19,18 +23,29 @@
 }
 
 .grid-label {
-    width: 30px; /* Width of the square */
-    height: 30px; /* Height of the square */
-    background-color: #ddd; /* Light grey background */
-    display: flex;
     align-items: center;
-    justify-content: center;
+    background-color: #ddd; /* Light grey background */
+    background: #f5f5f5;
+    border-radius: 4px;
     cursor: pointer;
+    display: flex;
+    height: 30px; /* Height of the square */
+    justify-content: center;
+    padding: 0.5rem;
+    text-align: center;
+    transition: background 0.2s;
+    width: 30px; /* Width of the square */
 }
+
 .grid-item:checked + .grid-label {
     background-color: #666; /* Darker background for selected */
     color: white;
 }
+
+.grid-label:hover {
+    background: #e0e0e0;
+}
+
 .selection-form {
     margin-bottom: 20px;
 }
@@ -65,4 +80,21 @@ body {
 
 #imagesContainer {
     min-height: 500px; /* Adjust this value based on the size of your images */
+}
+
+.visualization-container {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 2rem;
+    margin: 2rem 0;
+}
+
+/* Math equations styling */
+.math-block {
+    padding: 1rem;
+    background: #f8f9fa;
+    border-left: 4px solid #007bff;
+    margin: 1rem 0;
+    overflow-x: auto;
 }
